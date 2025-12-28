@@ -5,22 +5,46 @@
   <img src="https://komarev.com/ghpvc/?username=salemSS8&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=css" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=js" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=php" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=laravel" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="60"/>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/salem-bashnddof-62a381">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://bashnddof.page.gd/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</div>
+
 ---
 
 ## 👨‍💻 About Me
 Full Stack Web Developer with hands-on experience in building web applications using **Laravel**.  
-Strong background in technical support, which improved my debugging skills and user-focused thinking.
+Strong background in **Technical Support**, which enhanced my problem-solving and user-focused mindset.
 
 - 🌱 Currently learning **Docker**
 - 💬 Ask me about **PHP, Laravel, Databases**
 - 📫 Email: **salembashndoof@gmail.com**
-
----
-
-## 🛠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,mysql,docker,git,github,figma" />
-</p>
 
 ---
 
@@ -44,12 +68,7 @@ Al-Ahqaff University (2022 – Present)
 
 ---
 
-## 🌐 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/salem-bashnddof-62a381">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://bashnddof.page.gd/">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=salemSS8&theme=dracula" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=salemSS8&theme=dracula&row=1&column=6" height="150"/>
+</div>
