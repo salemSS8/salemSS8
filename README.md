@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 💻 Full Stack Developer using **Laravel**
 - 🌱 Currently learning **Docker**
-- 🧠 Strong background in **Technical Support**
+- 🧠 Background in **Technical & Customer Support**
 - 💬 Ask me about **PHP, Laravel, Databases**
 - 📫 Reach me at **salembashndoof@gmail.com**
 
@@ -18,7 +18,7 @@
 
 ### 🛠 Languages & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,docker,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,docker,git,github,figma" />
 </p>
 
 ---
@@ -35,18 +35,25 @@ Al-Ahqaff University
 
 ---
 
-### 📜 Certifications
-- 🐳 Learning Docker – LinkedIn Learning (2025)
-- 🇬🇧 English Language Proficiency
+### 🏆 Certifications & Achievements
+- 🥇 **Certificate of Excellence – FIRST Global Challenge (2020)**  
+  Represented **Team Yemen** in an international robotics & STEM competition  
+- 🐳 **Learning Docker** – LinkedIn Learning (2025)  
+- 🇬🇧 English Language Proficiency – Hadramout Research Institute
 
 ---
 
 ### 🌐 Connect with me
 <p>
-<a href="https://www.linkedin.com/in/salem-bashnddof-62a381">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://bashnddof.page.gd/">
-  <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/salem-bashnddof-62a381">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://bashnddof.page.gd/">
+    <img src="https://skillicons.dev/icons?i=chrome" />
+  </a>
 </p>
+
+---
+
+⭐ *Always learning. Always building.*
