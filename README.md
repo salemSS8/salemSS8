@@ -18,7 +18,7 @@
 
 ### 🛠 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,docker,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,docker,git,github,figma,postman" />
 </p>
 
 ---
@@ -50,7 +50,7 @@ Al-Ahqaff University
   </a>
   &nbsp;&nbsp;
   <a href="https://bashnddof.page.gd/">
-    <img src="https://skillicons.dev/icons?i=chrome" />
+    <img src="https://skillicons.dev/icons?i=htmx" />
   </a>
 </p>
 
