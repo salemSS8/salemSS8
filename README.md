@@ -1,56 +1,52 @@
-## 👋 Hi, I'm Salem Bashnddof
+<h1 align="center">Hi 👋, I'm Salem Bashnddof</h1>
+<h3 align="center">Full Stack Web Developer</h3>
 
-💻 **Full-Stack Web Developer**  
-Laravel • PHP • MySQL • Tailwind • Docker (Beginner)
-
----
-
-### 🚀 About Me
-I’m a web developer with hands-on experience building modern web applications using **Laravel** and clean frontend stacks.  
-I focus on **practical solutions**, readable code, and continuous improvement.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=salemSS8&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-### 🛠 Tech Stack
-- **Backend:** PHP, Laravel  
-- **Frontend:** HTML, CSS, JavaScript, Tailwind  
-- **Databases:** MySQL, SQL Server, Oracle  
-- **Tools:** Git, GitHub, Figma  
-- **DevOps:** Docker (Basics)
+### 👨‍💻 About Me
+- 💻 Full Stack Developer using **Laravel**
+- 🌱 Currently learning **Docker**
+- 🧠 Strong background in **Technical Support**
+- 💬 Ask me about **PHP, Laravel, Databases**
+- 📫 Reach me at **salembashndoof@gmail.com**
+
+---
+
+### 🛠 Languages & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,docker,git,github,figma" />
+</p>
 
 ---
 
 ### 💼 Experience
-- **Full-Stack Developer** – Arab Ware Doz Company (2025 – Present)  
-- **Technical & Customer Support** – Bin Dowal Trading Group (2023 – 2025)
-
-> Support background improved my debugging skills and user-focused thinking.
+- **Full Stack Developer** – Arab Ware Doz Company (2025 – Present)
+- **Technical Support** – Bin Dowal Trading Group (2023 – 2025)
 
 ---
 
 ### 🎓 Education
 🎓 Bachelor of Information Technology  
-Al-Ahqaff University (2022 – Present)
+Al-Ahqaff University
 
 ---
 
 ### 📜 Certifications
-- 🐳 **Learning Docker** – LinkedIn Learning (2025)  
-- 🇬🇧 English Language Proficiency – Hadramout Research Institute
+- 🐳 Learning Docker – LinkedIn Learning (2025)
+- 🇬🇧 English Language Proficiency
 
 ---
 
-### 🌍 Languages
-- Arabic: Native  
-- English: Intermediate (B1)
-
----
-
-### 📫 Contact
-- 🌐 Website: https://bashnddof.page.gd  
-- 💼 LinkedIn: https://www.linkedin.com/in/salem-bashnddof-62a381  
-- 📧 Email: salembashndoof@gmail.com
-
----
-
-⭐ *Always learning. Always building.*
+### 🌐 Connect with me
+<p>
+<a href="https://www.linkedin.com/in/salem-bashnddof-62a381">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://bashnddof.page.gd/">
+  <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+</p>
