@@ -11,16 +11,8 @@ Welcome to my Github page! I'm Salem, a **Full Stack Web Developer** focused on 
 
 I mainly work with **Laravel & PHP** on the backend and **React & JavaScript** on the frontend, with a strong interest in **API architecture, database design, application security, and system scalability**.
 
-<picture align="right">
-  <svg width="42%" viewBox="0 0 500 350" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <clipPath id="curved-border">
-        <rect width="100%" height="100%" rx="25" ry="25" />
-      </clipPath>
-    </defs>
-    <image href="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" height="100%" clip-path="url(#curved-border)" preserveAspectRatio="xMidYMid slice" />
-  </svg>
-</picture>
+<img align="right" alt="coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="42%" />
+
 #### 🚀 Things I am currently working on:
 
 * Building full-stack applications with **Laravel & React**
